@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "filesystem C:\\Users\\Peter\\source\\repos\\FileConverter\\ExampleFiles\\Source\\Sample-XML-Files.xml xml C:\\Users\\Peter\\source\\repos\\FileConverter\\ExampleFiles\\Target\\ReturnFile.json xml"
+    }
+  }
+}
