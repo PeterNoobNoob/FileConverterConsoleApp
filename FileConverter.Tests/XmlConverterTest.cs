@@ -31,6 +31,7 @@ namespace FileConverter.Tests
                               <url>http://www.yahoo.com</url>
                               </person>
                             </root>";
+            // XXX Hell hell
 
             var result = _xmlConverter.ConvertToJson(xmlString);
 
